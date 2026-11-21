@@ -3,27 +3,11 @@
     <title>Viano Ionita Piero's CV</title>
     <link type="text/css" rel="stylesheet" href="Curriculum_files/curriculum_eng.css" />
     <script type="text/javascript" src="Curriculum_files/jquery.min.js"></script>
+    <script type="text/javascript" src="Curriculum_files/curriculum.js"></script>
 </head>
 <body>
     <input type="button" id="print" value="Print" />
     <input type="button" id="printResume" value="Print resume" />
-    <script type="text/javascript">
-        // Page breaks are handled by CSS (break-inside: avoid on rows, repeating thead).
-        function split() {
-            $("#print").hide();
-            $("#printResume").hide();
-            window.print();
-            location.reload();
-        }
-
-        $($("#print").click(function () { split(); }));
-        $($("#printResume").click(function () {
-            document.title = "Viano Ionita Piero's resume";
-            $("#other").hide();
-            $("#title").text("Resume");
-            split();
-        }));
-    </script>
     <div style="font-size: 2em">
         <strong>
             <em id="title">Curriculum Vitae</em>
