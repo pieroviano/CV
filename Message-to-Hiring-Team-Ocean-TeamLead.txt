@@ -1,0 +1,15 @@
+Subject: Development Team Leader (.Net) - Piero Viano Ionita
+
+Hello OneOcean / Ocean Technologies Group team,
+
+I'd like to apply for the Development Team Leader (.Net) role.
+
+I'm a senior .NET engineer with 25 years of commercial software development, currently Cloud Technologies Engineer at RIA Solutions Group. For most of my career my core responsibility has been architecture and design alongside hands-on delivery, and I've mentored developers both within teams (through design guidance and code review) and as a Microsoft Certified Trainer - so leading by example and helping people grow comes naturally to me.
+
+My background maps closely to what you're looking for: strong .NET and object-oriented programming, microservices and distributed architecture, REST APIs with event buses and message queues (RabbitMQ), SQL and NoSQL (MS SQL Server, MongoDB), Docker, and AWS/Azure - all within Agile ways of working (Scrum/Kanban) and CI/CD pipelines (Jenkins). I also bring practical AI-assisted engineering (Claude Code, GitHub Copilot) to raise team productivity and code quality while keeping human oversight.
+
+I'm based in Romania as an EU citizen and fully set up for remote leadership and collaboration. I'd welcome a conversation about how I can help your .Net team deliver high-quality, scalable software and keep delivery predictable.
+
+Best regards,
+Piero Viano Ionita
+piero.viano@gmail.com | +40 770 274 181

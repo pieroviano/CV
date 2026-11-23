@@ -1,0 +1,17 @@
+Subject: Senior .NET Developer (AWS & Sitecore) - Piero Viano Ionita
+
+Hello Nagarro team,
+
+I'd like to express my interest in the Senior .NET Developer (AWS & Sitecore) role.
+
+I'm a senior .NET engineer with 25 years in the Microsoft ecosystem, currently a Cloud Technologies Engineer at RIA Solutions Group, where I build .NET Core REST services on AWS with RabbitMQ messaging and SQL Server/PostgreSQL. My day-to-day lines up closely with your stack: .NET Core, AWS cloud and serverless, microservices and event-driven design, Docker and Kubernetes, and NoSQL (MongoDB). I also bring hands-on AI-assisted development (Claude Code, GitHub Copilot) for codebase analysis, refactoring, automated testing and legacy modernization.
+
+To be transparent, my CMS experience isn't in Sitecore specifically - but I ramp up quickly on new platforms and I'm confident I'd close that gap fast while contributing on the .NET and AWS side from day one.
+
+I'm based in Brasov as an EU citizen (Italian and Romanian), so work authorization is in place and I'm fully set up for remote collaboration.
+
+I'd welcome a short conversation about how I can help build your enterprise digital solutions. Thank you for your time.
+
+Best regards,
+Piero Viano Ionita
+piero.viano@gmail.com | +40 770 274 181
